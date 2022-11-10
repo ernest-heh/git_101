@@ -3,7 +3,7 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
-#logo {
+.logo {
   width: 80px;
   height: 80px;
 }
